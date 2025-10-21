@@ -10,11 +10,13 @@ import About from "./pages/About";
 import Skils from "./pages/Skils";
 import Projects from "./pages/Projects";
 import ContactUs from "./pages/ContactUs";
+import ErrorPage from "./pages/ErrorPage";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
+    errorElement: <ErrorPage />,
     children: [
       { path: "/", element: <Home /> },
       { path: "about", element: <About /> },
