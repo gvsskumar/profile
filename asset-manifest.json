@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/profile/static/css/main.fb168032.css",
-    "main.js": "/profile/static/js/main.6bd2805e.js",
+    "main.css": "/profile/static/css/main.2747d692.css",
+    "main.js": "/profile/static/js/main.1cabf8cc.js",
     "static/media/SuryaKumar.docx": "/profile/static/media/SuryaKumar.c010bb29d2b64fd083d9.docx",
     "static/media/Kumar-Profile-Pic.jpg": "/profile/static/media/Kumar-Profile-Pic.bb3e93b304f39883db8f.jpg",
     "index.html": "/profile/index.html",
-    "main.fb168032.css.map": "/profile/static/css/main.fb168032.css.map",
-    "main.6bd2805e.js.map": "/profile/static/js/main.6bd2805e.js.map"
+    "main.2747d692.css.map": "/profile/static/css/main.2747d692.css.map",
+    "main.1cabf8cc.js.map": "/profile/static/js/main.1cabf8cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.fb168032.css",
-    "static/js/main.6bd2805e.js"
+    "static/css/main.2747d692.css",
+    "static/js/main.1cabf8cc.js"
   ]
 }
