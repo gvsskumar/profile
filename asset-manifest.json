@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.4cba091e.css",
-    "main.js": "/portfolio/static/js/main.6f0b3848.js",
-    "static/media/SuryaKumar.docx": "/portfolio/static/media/SuryaKumar.c010bb29d2b64fd083d9.docx",
-    "static/media/Kumar-Profile-Pic.jpg": "/portfolio/static/media/Kumar-Profile-Pic.bb3e93b304f39883db8f.jpg",
-    "index.html": "/portfolio/index.html",
-    "main.4cba091e.css.map": "/portfolio/static/css/main.4cba091e.css.map",
-    "main.6f0b3848.js.map": "/portfolio/static/js/main.6f0b3848.js.map"
+    "main.css": "/profile/static/css/main.4cba091e.css",
+    "main.js": "/profile/static/js/main.a8095442.js",
+    "static/media/SuryaKumar.docx": "/profile/static/media/SuryaKumar.c010bb29d2b64fd083d9.docx",
+    "static/media/Kumar-Profile-Pic.jpg": "/profile/static/media/Kumar-Profile-Pic.bb3e93b304f39883db8f.jpg",
+    "index.html": "/profile/index.html",
+    "main.4cba091e.css.map": "/profile/static/css/main.4cba091e.css.map",
+    "main.a8095442.js.map": "/profile/static/js/main.a8095442.js.map"
   },
   "entrypoints": [
     "static/css/main.4cba091e.css",
-    "static/js/main.6f0b3848.js"
+    "static/js/main.a8095442.js"
   ]
 }
