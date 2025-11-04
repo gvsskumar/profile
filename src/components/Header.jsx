@@ -1,8 +1,8 @@
 import { Link } from "react-router-dom";
+import {Routing} from './Routing';
 import resume from "../assets/SuryaKumar.docx";
 
 const Header = () => {
-const menuStyle ='text-subtext-light dark:text-subtext-dark hover:text-primary dark:hover:text-primary transition';    
     return (
 <header className="flex justify-between items-center py-6">
 <div className="flex items-center space-x-3">
@@ -13,10 +13,7 @@ const menuStyle ='text-subtext-light dark:text-subtext-dark hover:text-primary d
 
 </div>
 <nav className="hidden md:flex items-center space-x-8">
-<Link className={menuStyle} to="/about">About</Link>
-<Link className={menuStyle} to="/skils">Skils</Link>
-<Link className={menuStyle} to="/projects">Projects</Link>
-<Link className={menuStyle} to="/contact-us">Contact</Link>
+<Routing />
 </nav>
 <a className="bg-primary text-white px-4 py-2 rounded-lg font-semibold hover:bg-indigo-700 transition" href={resume} download>Download CV</a>
 </header>

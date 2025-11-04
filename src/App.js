@@ -1,14 +1,13 @@
-import Header from "./components/Header";
-import Footer from "./components/Footer";
-import { Outlet } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
+import { Routing } from "./components/Routing";
+import NavBar from "./components/NavBar";
 
 function App() {
   return (
-    <div className="min-h-screen bg-background-light dark:bg-background-dark">
-      <Header />
-        <Outlet /> {/* this renders About, Skills, Projects, etc. */}
-      <Footer />
-    </div>
+    <Router>
+      <NavBar />
+      <Routing />
+    </Router>
   );
 }
 

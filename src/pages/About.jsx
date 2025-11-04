@@ -1,5 +1,5 @@
 const About = () => {
-    return (
+    return ( 
 <section className="py-4 md:py-8" id="about">
 <div className="text-center max-w-3xl mx-auto">
 <h2 className="text-3xl font-bold mb-4">About Me</h2>

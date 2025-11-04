@@ -3,7 +3,7 @@ import SocialMediaIcons from '../components/SocialMediaIcons';
 const ContactUs = () => {
  
     return (
-<section className="py-4 md:py-8" id="contact">
+<section className="py-4 md:py-8" id="contact-us">
 <div className="grid md:grid-cols-2 gap-12">
 <div>
 <h2 className="text-3xl font-bold mb-4">Get In Touch</h2>
