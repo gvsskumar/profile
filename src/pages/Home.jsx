@@ -25,9 +25,12 @@ const Home = () => {
 <SocialMediaIcons />
 </div>
 <div className="flex justify-center items-center">
-<div className="w-64 h-64 sm:w-80 sm:h-80 bg-gray-300 dark:bg-gray-700 rounded-full flex items-center justify-center">
-<img src={Profile} alt="Profile" className="w-56 h-56 sm:w-72 sm:h-72 rounded-full" />
-
+<div class="w-48 h-48 sm:w-64 sm:h-64 bg-gray-300 dark:bg-gray-700 rounded-full flex items-center justify-center">
+  <img
+    alt="Profile"
+    class="w-40 h-40 sm:w-56 sm:h-56 rounded-full"
+    src={Profile}
+  />
 </div>
 </div>
 </div>

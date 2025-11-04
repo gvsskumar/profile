@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import resume from "../assets/SuryaKumar.docx";
+import resume from "../assets/SuryaKumar.pdf";
 const NavBar = () => {
     const menuStyle = "text-subtext-light dark:text-subtext-dark hover:text-primary dark:hover:text-primary transition";
     return (
